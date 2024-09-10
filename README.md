@@ -1,3 +1,10 @@
+# Create a React Flow node by dragging an edge to open the context menu and selecting a node.
+
+![reactflow-dnd](https://github.com/user-attachments/assets/dbd51056-8a55-4101-9873-cfacc72dafae)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
